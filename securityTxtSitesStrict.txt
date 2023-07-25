@@ -1,0 +1,554 @@
+FAIL: 000webhost.com - 403
+FAIL: 123rf.com - 301
+FAIL: 126.com - 200 - text/plain
+FAIL: 163.com - 200 - text/plain
+FAIL: 17173.com - 301
+FAIL: 2fast4u.be - 403
+FAIL: 500px.com - 403
+FAIL: 7k7k.com - 200 - text/plain
+PASS: 8fit.com - 200
+FAIL: 8tracks.com - 403
+FAIL: abfrl.com - 301
+FAIL: abusewith.us - 200 - text/html; charset=utf-8
+FAIL: acne.org - 301
+FAIL: actmobile.com - 404
+FAIL: adapt.io - 200 - text/plain
+FAIL: adecco.com - 301
+FAIL: adobe.com - 200 - text/plain
+FAIL: adult-fanfiction.org - 200 - text/plain
+FAIL: adultfriendfinder.com - 404
+FAIL: aerserv.com - 200 - text/plain
+FAIL: agusiq-torrents.pl - 302
+FAIL: ahashare.com - 200 - text/plain
+FAIL: aimware.net - 403
+FAIL: aipai.com - 301
+FAIL: aitype.com - 200 - text/plain
+FAIL: ajarn.com - 301
+FAIL: akparti.org.tr - 404
+FAIL: amartfurniture.com.au - 301
+FAIL: ancestry.com - 301
+FAIL: androidforums.com - 404
+FAIL: animaljam.com - 301
+FAIL: anime-planet.com - 301
+FAIL: animegame.me - 302
+FAIL: animoto.com - 404
+FAIL: apollo.io - 301
+FAIL: appartoo.com - 301
+FAIL: appen.com - 404
+FAIL: aptoide.com - 404
+FAIL: armorgames.com - 404
+FAIL: armyforceonline.com - 302
+FAIL: artsy.net - 301
+FAIL: artvalue.com - 404
+FAIL: ashleymadison.com - 200 - text/plain
+FAIL: astoriacompany.com - 301
+FAIL: aternos.org - 403
+FAIL: atlasquantum.com - 302
+FAIL: audiusa.com - 301
+FAIL: autocentrum.pl - 301
+FAIL: autotrader.com - 301
+FAIL: avast.com - 301
+FAIL: avvo.com - 301
+FAIL: babynames.com - 404
+FAIL: badoo.com - 200 - text/plain
+FAIL: bannerbit.com - 200 - text/plain
+FAIL: banorte.com - 302
+FAIL: battlefy.com - 200 - text/html
+FAIL: bell.ca - 301
+FAIL: benchmark.rs - 403
+FAIL: bestialitysextaboo.com - 200 - text/plain
+FAIL: bhinneka.com - 301
+FAIL: bigbasket.com - 301
+FAIL: bigmoneyjobs.com - 302
+FAIL: binweevils.com - 404
+FAIL: biohack.me - 404
+FAIL: bitcointalk.org - 200 - text/plain
+PASS: bitly.com - 200
+FAIL: bittorrent.com - 301
+FAIL: blackhatworld.com - 301
+FAIL: blackspigot.com - 200 - text/plain
+FAIL: blankmediagames.com - 301
+FAIL: bluesnap.com - 404
+FAIL: bombuj.eu - 301
+FAIL: bonobos.com - 403
+FAIL: bookchor.com - 200 - text/html; charset=utf-8
+FAIL: bookmate.com - 404
+FAIL: botoflegends.com - 404
+FAIL: bourse-des-vols.com - 301
+FAIL: brandnewtube.com - 301
+FAIL: brazzers.com - 200 - text/plain
+FAIL: btc-alpha.com - 200 - text/html
+FAIL: btobet.com - 503
+FAIL: bukalapak.com - 301
+FAIL: businessacumen.biz - 301
+FAIL: cafemom.com - 200 - text/html; charset=utf-8
+FAIL: cafepress.com - 301
+FAIL: cannabis.com - 301
+FAIL: canva.com - 301
+FAIL: capitaleconomics.com - 301
+FAIL: cardmafia.cc - 301
+FAIL: cashcrate.com - 200 - text/plain
+FAIL: catho.com.br - 302
+FAIL: cdek.ru - 404
+FAIL: cdprojektred.com - 404
+FAIL: cfire.mail.ru - 302
+FAIL: chatbooks.com - 404
+FAIL: cheapassgamer.com - 301
+FAIL: chegg.com - 200 - text/plain
+FAIL: chowbus.com - 301
+FAIL: cit0day.in - 302
+FAIL: citybee.lt - 404
+FAIL: cityjerks.com - 404
+FAIL: clearvoicesurveys.com - 404
+FAIL: clixsense.com - 200 - text/plain
+FAIL: cloudpets.com - 404
+FAIL: co188.com - 301
+FAIL: coachella.com - 502
+FAIL: coinmama.com - 200 - text/plain
+FAIL: coinmarketcap.com - 404
+FAIL: cointracker.io - 301
+FAIL: comelec.gov.ph - 403
+FAIL: convex.ru - 301
+FAIL: covve.com - 404
+FAIL: crackcommunity.com - 404
+FAIL: cracked.to - 301
+FAIL: crackingforum.com - 200 - text/plain
+FAIL: creative.com - 301
+FAIL: ctars.com.au - 404
+FAIL: cyberserve.co.il - 403
+FAIL: dafont.com - 301
+FAIL: dailymotion.com - 301
+FAIL: dailyobjects.com - 302
+FAIL: dangdang.com - 301
+FAIL: daniweb.com - 301
+FAIL: data4marketers.com - 404
+FAIL: datacamp.com - 301
+FAIL: datanleads.com - 302
+FAIL: datpiff.com - 404
+FAIL: dave.com - 302
+FAIL: ddo.com - 302
+FAIL: deezer.com - 301
+FAIL: demonforums.net - 404
+FAIL: descomplica.com.br - 404
+FAIL: devil-torrents.pl - 404
+FAIL: devkitpro.org - 404
+FAIL: diet.com - 404
+FAIL: digimon.co.in - 302
+FAIL: disqus.com - 404
+FAIL: dlh.net - 301
+FAIL: dodonew.com - 403
+FAIL: doomworld.com - 404
+FAIL: doordash.com - 403
+FAIL: doxbin.com - 200 - text/html
+FAIL: drivesure.com - 404
+FAIL: drizly.com - 403
+FAIL: dropbox.com - 200 - text/plain
+FAIL: ducks.org - 301
+FAIL: dunzo.com - 301
+FAIL: duowan.com - 200 - text/plain
+FAIL: eatigo.com - 302
+FAIL: eatstreet.com - 200 - text/html;charset=utf-8
+FAIL: elance.com - 301
+FAIL: emuparadise.me - 301
+FAIL: epal.gg - 301
+FAIL: epicbot.com - 200 - text/plain
+FAIL: epicgames.com - 302
+FAIL: epicnpc.com - 301
+FAIL: epik.com - 301
+FAIL: eroticy.com - 200 - text/plain
+FAIL: eservices.durban.gov.za - 404
+FAIL: eskimi.com - 200 - text/plain
+PASS: ethereum.org - 200
+FAIL: europa.jobs - 404
+FAIL: evermotion.org - 404
+FAIL: everybodyedits.com - 404
+FAIL: evite.com - 301
+FAIL: evony.com - 404
+FAIL: exactis.com - 200 - text/plain
+FAIL: experian.com - 301
+FAIL: eye4fraud.com - 200 - text/html; charset=utf-8
+FAIL: eyeem.com - 200 - text/plain
+FAIL: facebook.com - 200 - text/plain
+FAIL: facepunch.com - 404
+FAIL: faceup.dk - 404
+FAIL: factual.com - 200 - text/plain
+FAIL: famm.us - 404
+FAIL: fanpass.co.uk - 301
+FAIL: fantasyfootballhub.co.uk - 308
+FAIL: fashionnexus.co.uk - 404
+FAIL: ffshrine.org - 404
+FAIL: filmai.in - 404
+FAIL: flashback.se - 200 - text/plain
+FAIL: flashflashrevolution.com - 301
+FAIL: flexbooker.com - 301
+FAIL: fling.com - 200 - text/plain
+FAIL: flvs.net - 404
+FAIL: flytap.com - 301
+FAIL: foodora.com - 301
+FAIL: forbes.com - 301
+FAIL: forum.btcsec.com - 302
+FAIL: forumcommunity.net - 301
+FAIL: fotolog.com - 301
+FAIL: foxybingo.com - 200 - text/plain
+FAIL: freshmenu.com - 301
+FAIL: fridae.asia - 301
+FAIL: funimation.com - 302
+FAIL: funny-games.biz - 200 - text/plain
+FAIL: furaffinity.net - 301
+FAIL: gaadi.com - 301
+FAIL: gab.com - 200 - text/plain
+FAIL: gamerzplanet.net - 200 - text/plain
+FAIL: gamesalad.com - 301
+FAIL: gamigo.com - 302
+FAIL: gatehub.net - 200 - text/html
+FAIL: gawker.com - 301
+FAIL: geekedin.net - 200 - text/html; charset=utf-8
+FAIL: gemini.com - 301
+FAIL: geniusu.com - 301
+FAIL: getrevengeonyourex.com - 302
+FAIL: gfan.com - 404
+FAIL: ggcorp.me - 200 - text/plain
+FAIL: ggumim.co.kr - 301
+FAIL: givesendgo.com - 301
+FAIL: glofox.com - 301
+FAIL: gogames.me - 200 - text/html; charset=utf-8
+FAIL: goldsilver.com - 404
+FAIL: gonitro.com - 404
+FAIL: gpotato.com - 404
+FAIL: gpsunderground.com - 302
+FAIL: gravatar.com - 302
+FAIL: gtagaming.com - 404
+FAIL: gunauction.com - 403
+FAIL: guns.com - 301
+FAIL: guntrader.uk - 301
+FAIL: hackforums.net - 200 - text/plain
+FAIL: hackingteam.com - 526
+FAIL: hautelook.com - 301
+FAIL: havenly.com - 404
+FAIL: hdbfs.com - 307
+FAIL: hemmakvall.se - 301
+FAIL: hemmelig.com - 301
+FAIL: hiapk.com - 200 - text/plain
+FAIL: hltv.org - 301
+FAIL: homechef.com - 403
+FAIL: hookers.nl - 200 - text/plain
+FAIL: houzz.com - 301
+FAIL: htcmania.com - 301
+FAIL: hthstudios.com - 301
+FAIL: hurb.com - 301
+FAIL: idcgames.com - 404
+FAIL: idtech.com - 301
+FAIL: iimjobs.com - 301
+FAIL: ilikecheats.net - 301
+FAIL: imavex.com - 301
+FAIL: imesh.com - 200 - text/plain
+FAIL: imgur.com - 200 - text/html
+FAIL: indiamart.com - 301
+FAIL: indianrails.in - 404
+FAIL: insanelyi.com - 403
+FAIL: instantcheckmate.com - 200 - text/plain
+FAIL: interpals.net - 404
+FAIL: intgovforum.org - 404
+FAIL: ipmart-forum.com - 302
+FAIL: ixigo.com - 301
+FAIL: jamesdelivery.com.br - 403
+FAIL: jd.com - 302
+FAIL: jefit.com - 404
+FAIL: jobandtalent.com - 200 - text/plain
+FAIL: jobstreet.com - 301
+FAIL: joomlart.com - 301
+FAIL: jukinmedia.com - 301
+FAIL: justdate.com - 200 - text/plain
+FAIL: kickstarter.com - 301
+FAIL: kimsufi.com - 301
+FAIL: km.ru - 301
+FAIL: knuddels.de - 200 - text/plain
+FAIL: kodi.tv - 404
+FAIL: komplettfritid.no - 500
+FAIL: kreditplus.com - 200 - text/html; charset=utf-8
+FAIL: lanwar.com - 404
+FAIL: lapostemobile.fr - 404
+FAIL: last.fm - 301
+FAIL: lbb.in - 301
+FAIL: lbsg.net - 301
+FAIL: leagueoflegends.com - 302
+FAIL: ledger.com - 301
+FAIL: leet.cc - 404
+FAIL: lifebear.com - 404
+FAIL: lightshope.org - 526
+FAIL: limevpn.com - 200 - text/plain
+FAIL: linkedin.com - 301
+FAIL: linuxforums.org - 301
+FAIL: linuxmint.com - 404
+FAIL: littlemonsters.com - 403
+FAIL: liveauctioneers.com - 301
+FAIL: livejournal.com - 302
+FAIL: livpure.com - 404
+FAIL: locally.com - 301
+FAIL: lolzteam.net - 200 - text/plain
+FAIL: lookbook.nu - 404
+FAIL: lotro.com - 302
+FAIL: luminpdf.com - 301
+FAIL: luxottica.com - 302
+FAIL: lyricsmania.com - 301
+FAIL: mac-forums.com - 301
+FAIL: mac-torrents.com - 200 - text/plain
+FAIL: macg.co - 301
+FAIL: mail.ru - 302
+FAIL: majorgeeks.com - 302
+FAIL: mall.cz - 301
+FAIL: malwarebytes.org - 301
+FAIL: mangadex.org - 200 - text/plain
+FAIL: mangafox.me - 301
+FAIL: mangatoon.mobi - 404
+FAIL: mangatraders.com - 302
+FAIL: mashable.com - 404
+FAIL: mate1.com - 503
+FAIL: mathway.com - 301
+FAIL: mcbans.com - 302
+FAIL: mdpi.com - 301
+FAIL: mechodownload.com - 200 - text/plain
+FAIL: meetmindful.com - 301
+FAIL: meoair.com - 301
+FAIL: mgmresorts.com - 301
+FAIL: minefield.fr - 404
+FAIL: minehut.com - 200 - text/html; charset=utf-8
+FAIL: minted.com - 301
+FAIL: mmgfusion.com - 301
+FAIL: mobifriends.com - 301
+FAIL: modaco.com - 301
+FAIL: modbsolutions.com - 500
+FAIL: moneybookers.com - 404
+FAIL: moneycontrol.com - 301
+FAIL: morele.net - 301
+FAIL: mortalonline.com - 404
+FAIL: mpgh.net - 403
+FAIL: mrexcel.com - 301
+FAIL: mspy.com - 200 - text/plain
+FAIL: muslimdirectory.co.uk - 404
+FAIL: muslimmatch.com - 301
+FAIL: myfitnesspal.com - 404
+FAIL: myheritage.com - 301
+FAIL: myrepospace.com - 302
+FAIL: myspace.com - 404
+FAIL: myvidster.com - 302
+FAIL: nap.bg - 302
+FAIL: napsgear.org - 301
+FAIL: naughtyamerica.com - 200 - text/plain
+FAIL: neopets.com - 404
+FAIL: neteller.com - 301
+FAIL: netgalley.com - 301
+FAIL: netlog.com - 200 - text/plain
+FAIL: netprospex.com - 403
+FAIL: netshoes.com.br - 301
+FAIL: nextgenupdate.com - 404
+FAIL: nexusmods.com - 301
+FAIL: nihonomaru.net - 200 - text/html; charset=utf-8
+FAIL: nival.com - 301
+FAIL: nonnudegirls.org - 200 - text/plain
+FAIL: nulled.ch - 302
+FAIL: nurserycam.co.uk - 404
+FAIL: nvidia.com - 301
+FAIL: ogusers.com - 200 - text/plain
+FAIL: onverse.com - 404
+FAIL: opencsgo.com - 200 - text/html; charset=utf-8
+FAIL: opensubtitles.org - 301
+FAIL: ordersnapp.com - 301
+FAIL: ordineavvocatiroma.it - 301
+FAIL: ovh.com - 301
+FAIL: OwnedCore.com - 403
+FAIL: oxfam.org.au - 302
+FAIL: paddypower.com - 200 - text/plain
+FAIL: parapa.mail.ru - 301
+FAIL: parkmobile.io - 404
+FAIL: patreon.com - 301
+FAIL: payasugym.com - 301
+FAIL: payhere.lk - 403
+FAIL: paytm.com - 301
+FAIL: peatix.com - 403
+FAIL: petflow.com - 403
+FAIL: phonehouse.es - 301
+FAIL: pixelfederation.com - 302
+FAIL: pixlr.com - 301
+FAIL: pizap.com - 301
+FAIL: pizza.dominos.be - 301
+FAIL: planet-ice.co.uk - 404
+FAIL: planetcalypsoforum.com - 404
+FAIL: playbook.vc - 404
+FAIL: plex.tv - 200 - text/plain
+FAIL: pluto.tv - 200 - text/html; charset=utf-8
+FAIL: pokebip.com - 301
+FAIL: pokemoncreed.net - 404
+FAIL: pokemonnegro.com - 404
+FAIL: policeone.com - 301
+FAIL: poshmark.com - 404
+FAIL: ppcgeeks.com - 403
+FAIL: preen.me - 301
+FAIL: proctoru.com - 301
+FAIL: promo.com - 404
+FAIL: promofarma.com - 301
+FAIL: proptiger.com - 301
+FAIL: protemps.com.sg - 404
+FAIL: pspiso.com - 302
+FAIL: qip.ru - 200 - text/plain
+FAIL: qnb.com - 403
+FAIL: quantumbooter.net - 200 - text/plain
+FAIL: questionpro.com - 200 - text/plain
+FAIL: quidd.co - 404
+FAIL: quinstreet.com - 200 - text/plain
+FAIL: r2games.com - 301
+FAIL: raidforums.com - 200 - text/html
+FAIL: rambler.ru - 200 - text/plain
+FAIL: rankwatch.com - 301
+FAIL: raychat.ir - 301
+FAIL: rdcglobal.com - 301
+FAIL: readnovel.com - 301
+FAIL: realdudesinc.com - 301
+FAIL: realestatemogul.com - 404
+FAIL: reddoorz.com - 301
+FAIL: reincubate.com - 404
+FAIL: rentomojo.com - 301
+FAIL: reverbnation.com - 301
+PASS: robinhood.com - 200
+FAIL: roblox.com - 308
+FAIL: roll20.net - 404
+FAIL: romwe.com - 301
+FAIL: rosebuttboard.com - 200 - text/plain
+FAIL: royalenfield.com - 301
+FAIL: sayweee.com - 301
+FAIL: scentbird.com - 403
+FAIL: sd42.ca - 301
+FAIL: sephora.com.au - 301
+FAIL: serverpact.com - 301
+FAIL: shadi.com - 301
+FAIL: sharethis.com - 200 - text/plain
+FAIL: shein.com - 301
+FAIL: shitexpress.com - 301
+FAIL: shockgore.com - 200 - text/plain
+FAIL: shopback.com - 301
+FAIL: shopperplus.ca - 301
+FAIL: short-edition.com - 404
+FAIL: shotbow.net - 404
+FAIL: sirhurt.net - 404
+FAIL: sitepoint.com - 301
+FAIL: sktorrent.eu - 404
+FAIL: slickwraps.com - 301
+FAIL: slideteam.net - 301
+FAIL: smogon.com - 301
+FAIL: snail.com - 404
+FAIL: snapchat.com - 301
+FAIL: socialengineered.net - 403
+FAIL: solomid.net - 404
+FAIL: sonicbids.com - 301
+FAIL: sony.com - 301
+FAIL: specials.mastercard.de - 200 - text/html; charset=utf-8
+FAIL: spirol.com - 404
+FAIL: sprashivai.ru - 302
+FAIL: spyfone.com - 301
+FAIL: start.film - 404
+FAIL: startribune.com - 301
+FAIL: stockx.com - 404
+FAIL: storybird.com - 200 - text/html
+FAIL: straffic.io - 404
+FAIL: stratfor.com - 301
+FAIL: streeteasy.com - 404
+FAIL: stripchat.com - 200 - text/plain
+FAIL: strongholdkingdoms.com - 200 - text/html; charset=utf-8
+FAIL: subagames.com - 404
+FAIL: sumotorrent.sx - 521
+FAIL: sundryfiles.com - 200 - text/plain
+FAIL: svenskamagic.com - 301
+FAIL: sweclockers.com - 301
+FAIL: swvl.com - 301
+FAIL: tailieu.vn - 404
+FAIL: taobao.com - 200 - text/plain
+FAIL: taringa.net - 301
+FAIL: technicpack.net - 301
+FAIL: teespring.com - 200 - text/plain
+FAIL: teracod.org - 200 - text/html
+FAIL: terravision.eu - 301
+FAIL: texasgop.org - 404
+FAIL: tgbus.com - 301
+FAIL: thecandidboard.com - 200 - text/plain
+FAIL: thefappening.so - 200 - text/plain
+FAIL: theflyonthewall.com - 404
+FAIL: thegradcafe.com - 301
+FAIL: thehalloweenspot.com - 301
+FAIL: thetvdb.com - 500
+FAIL: thingiverse.com - 301
+FAIL: ticketcounter.nl - 404
+FAIL: tokopedia.com - 301
+FAIL: tout.com - 200 - text/plain
+FAIL: trai.gov.in - 404
+FAIL: travelio.com - 301
+FAIL: travelok.com - 301
+FAIL: trillian.im - 404
+PASS: truckersmp.com - 200
+FAIL: truefire.com - 404
+FAIL: truthfinder.com - 301
+FAIL: tumblr.com - 301
+FAIL: tunedglobal.com - 301
+PASS: twitter.com - 200
+FAIL: uiggy.com - 404
+FAIL: ulmon.com - 301
+FAIL: underworldempireforums.com - 301
+FAIL: unicocampania.it - 301
+FAIL: universarium.org - 200 - text/html
+FAIL: universityofcalifornia.edu - 404
+FAIL: unrealengine.com - 301
+FAIL: upstox.com - 403
+FAIL: utahgunexchange.com - 403
+FAIL: utorrent.com - 404
+FAIL: uuu9.com - 302
+FAIL: v3rmillion.net - 403
+FAIL: vakinha.com.br - 301
+FAIL: vbulletin.com - 200 -
+FAIL: vedantu.com - 301
+FAIL: verifications.io - 302
+FAIL: vianet.com.np - 301
+FAIL: victoryphones.com - 301
+FAIL: viewfines.co.za - 200 - text/html
+FAIL: vk.com - 404
+FAIL: vodafone.is - 404
+FAIL: void.to - 404
+FAIL: vtechda.com - 404
+FAIL: vtightgel.com - 404
+FAIL: wakanim.tv - 301
+FAIL: wanelo.com - 200 - text/html; charset=utf-8
+FAIL: warframe.com - 301
+FAIL: warmane.com - 301
+FAIL: wattpad.com - 301
+FAIL: wedmegood.com - 301
+FAIL: weheartit.com - 200 - text/plain
+FAIL: wendys.com.ph - 404
+FAIL: whitepages.com - 301
+FAIL: whmcs.com - 301
+FAIL: wifelovers.com - 200 - text/plain
+FAIL: wiiuiso.com - 302
+FAIL: wildstar-online.com - 301
+FAIL: win7vista.com - 301
+FAIL: wishbone.io - 404
+FAIL: wizishop.fr - 301
+FAIL: wongnai.com - 301
+FAIL: wpsandbox.io - 403
+FAIL: xat.com - 404
+FAIL: xhamster.com - 200 - text/plain
+FAIL: xiaomi.cn - 302
+FAIL: xkcd.com - 404
+FAIL: xpgamesaves.com - 301
+FAIL: xsplit.com - 301
+FAIL: yahoo.com - 200 - text/plain
+FAIL: yam.com - 404
+FAIL: yatra.com - 308
+FAIL: yotepresto.com - 301
+FAIL: youku.com - 302
+FAIL: younow.com - 301
+FAIL: youporn.com - 200 - text/plain
+FAIL: zacks.com - 301
+FAIL: zap-hosting.com - 403
+FAIL: zhenai.com - 301
+FAIL: zing.vn - 403
+FAIL: zomato.com - 301
+FAIL: zoosk.com - 301
+FAIL: zooville.org - 301
+FAIL: zynga.com - 403
